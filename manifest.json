@@ -1,0 +1,10 @@
+{
+  "id": "opencodian",
+  "name": "Opencodian",
+  "version": "1.0.1",
+  "minAppVersion": "1.4.5",
+  "description": "OpenCode embedded in Obsidian. Based on Claudian by YishenTu, with skills and categories from oh-my-opencode.",
+  "author": "Opencodian Contributors",
+  "authorUrl": "https://github.com/YishenTu/claudian",
+  "isDesktopOnly": true
+}
