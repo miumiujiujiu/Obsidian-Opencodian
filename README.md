@@ -19,7 +19,7 @@ Opencodian is an Obsidian plugin that embeds the OpenCode CLI as an AI coding ag
 │  Backend: OpenCode CLI (replaces Claude Code)               │
 │  - Supports GLM, Kimi, DeepSeek, and other models           │
 ├─────────────────────────────────────────────────────────────┤
-│  Features from oh-my-opencode:                              │
+│  Features from oh-my-openagent:                              │
 │  - Skills system (custom prompts & tools)                   │
 │  - Categories (task-based model routing)                    │
 │  - Multi-agent orchestration                                │
@@ -35,7 +35,7 @@ This project is a derivative work of:
 
 **Key Changes from Claudian**:
 1. Backend replaced: Claude Code → OpenCode CLI
-2. Added: Skills system from oh-my-opencode
+2. Added: Skills system from oh-my-openagent
 3. Added: Categories for task-based model routing
 4. Added: Status bar with agent/model info
 
@@ -48,7 +48,7 @@ This project is a derivative work of:
 - **Permission Modes** — YOLO, Safe, Plan, Build modes
 - **Status Bar** — Shows connection status, current agent, and model
 
-### Unique Features (from oh-my-opencode)
+### Unique Features (from oh-my-openagent)
 - **Skills System** — Load skills from `.opencode/skills/` and `~/.config/opencode/skills/`
 - **Categories** — Automatic model routing based on task type:
   - `visual-engineering` → Frontend, UI/UX
@@ -132,5 +132,5 @@ SOFTWARE.
 
 - **Claudian** by YishenTu — UI foundation and original plugin architecture (https://github.com/YishenTu/claudian)
 - **OpenCode** — CLI backend for AI coding assistance (https://opencode.ai/)
-- **oh-my-opencode** — Skills and categories system inspiration (https://github.com/code-yeongyu/oh-my-openagent)
+- **oh-my-openagent** — Skills and categories system inspiration (https://github.com/code-yeongyu/oh-my-openagent)
 - **Obsidian** — Platform and API (https://obsidian.md/)
