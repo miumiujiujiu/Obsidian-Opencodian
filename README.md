@@ -130,7 +130,7 @@ SOFTWARE.
 
 ## Acknowledgments
 
-- **Claudian** by YishenTu — UI foundation and original plugin architecture
-- **OpenCode** — CLI backend for AI coding assistance
-- **oh-my-opencode** — Skills and categories system inspiration
-- **Obsidian** — Platform and API
+- **Claudian** by YishenTu — UI foundation and original plugin architecture (https://github.com/YishenTu/claudian)
+- **OpenCode** — CLI backend for AI coding assistance (https://opencode.ai/)
+- **oh-my-opencode** — Skills and categories system inspiration (https://github.com/code-yeongyu/oh-my-openagent)
+- **Obsidian** — Platform and API (https://obsidian.md/)
