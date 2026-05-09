@@ -1,6 +1,6 @@
 # Opencodian
 
-> OpenCode embedded in Obsidian — your vault becomes an AI collaborator with skills, categories, and multi-agent orchestration.
+> OpenCode CLI embedded in Obsidian.  Based on Claudian by YishenTu, with skills, categories from oh-my-openagent.
 
 ## Overview
 
